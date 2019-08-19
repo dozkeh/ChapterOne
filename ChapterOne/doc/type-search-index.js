@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"de.rvwbk.eit8.rominakehl.chapterone.blueprint","l":"Dice"},{"p":"de.rvwbk.eit8.rominakehl.chapterone.game","l":"Game"}]

@@ -1,0 +1,23 @@
+git:
+Klasse:
+Objekt:
+Namenskonvention in Java:
+Methode:
+Konstruktor:
+Objektorientierte Programmierung:
+Kapselung:
+Getter und Setter:
+POJO: 
+Javadoc:
+Modifikatoren:
+Primitive Datentypen:
+Konstruktor:
+new:
+this:
+@:
+Sysout:
+Heap:
+Stack:
+Garbage Collector:
+Klassendiagramm: 
+Programme: ObjectAid (UML), VisualVM (Heap, Stack)
